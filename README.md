@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tomkasede4
-- 👀 I’m interested in C#
+- 👀 I code in JAVA, C#, PHP and GO
 - 🌱 I’m currently learning Cloud Architectures
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Java and GO Projects
+- 📫 How to reach me :mobile +254796105768 or email tomkasede4@gmail.ccom
 
 <!---
 tomkasede4/tomkasede4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
