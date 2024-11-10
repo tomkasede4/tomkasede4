@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomkasede4
-- 👀 I code in JAVA, C#, PHP and GO
+- 👀 I code in JAVA, C#, Python, React, PHP and GO
 - 🌱 Cloud Architectures : AWS and Azure
-- 💞️ I’m looking to collaborate on Java and GO Projects
+- 💞️ I’m looking to collaborate on JAVA, C#, Python, React, PHP and GO Projects
 - 📫 How to reach me :mobile +254796105768 or email tomkasede4@gmail.ccom
 
 <!---
